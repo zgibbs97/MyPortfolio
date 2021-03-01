@@ -12,3 +12,7 @@
 
 ![Screenshot](./Assets/img/screenshot[1].png)
 ![Screenshot](./Assets/img/screenshot[2].png)
+
+# Link to the website!
+
+https://zgibbs97.github.io/MyPortfolio/
